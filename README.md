@@ -226,6 +226,3 @@ colorndrive2/
 ## Author
 
 **Kashif Umar** — Backend Developer
-
-- LinkedIn: [linkedin.com/in/kashif-umar](https://www.linkedin.com/in/kashif-umar/)
-- X: [x.com/kashif_umar](https://x.com/kashif_umar)
